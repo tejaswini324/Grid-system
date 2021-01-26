@@ -1,0 +1,42 @@
+p{
+  background: black;
+  color:white;
+}
+.con2{
+  border: 2px solid orange;
+  height: 20vh;
+}
+.green1{
+  border: 2px solid blue;
+
+}
+.red1{
+border: 2px solid green;
+
+}
+.blue1{
+  border: 2px solid red;
+
+}
+
+.con{
+  background: black;
+  background-size: 18vh;
+}
+
+.con1{
+  background: purple;
+  background-size: 18vh;
+}
+.green{
+  background: green;
+  background-size: 18vh;
+}
+.red{
+  background: red;
+  background-size: 18vh;
+}
+.blue{
+  background: blue;
+  background-size: 18vh;
+}
